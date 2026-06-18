@@ -14,6 +14,9 @@ I'm a backend developer focusing on high-performance APIs.
 *   **[Idempotent Wallet API](https://github.com/mikekhan100/idempotent-wallet-api)**: A robust Python API demonstrating Idempotency and Data Integrity for financial transactions. Built with FastAPI and SQLite to ensure 'Exactly-Once' processing.
 *   **[Pyvault Role-Based Access Control](https://github.com/mikekhan100/pyvault-rbac)**: An advanced security "Vault" implementation using Python and FastAPI. This project demonstrates granular Role-Based Access Control (RBAC) using JWT Scopes and custom Dependency Injection gatekeepers to secure sensitive API endpoints and manage user permissions effectively.   
 *   **[Distributed Task Queue](https://github.com/mikekhan100/distributed-task-queue)**: A fault-tolerant, distributed task orchestration engine built with Python, FastAPI, and Redis.
+*   **[Resilient Notifier](https://github.com/mikekhan100/resilient-notifier)**: A high-resilience notification system built with Python and FastAPI. This project demonstrates the Circuit Breaker design pattern, a strategy used in microservices to prevent cascading failures.
+*   **[Guardian API](https://github.com/mikekhan100/guardian-api)**: A resilient FastAPI backend demonstrating Fixed-Window Rate Limiting to protect system resources and manage traffic flow.
+*   **[SaaS CRM API](https://github.com/mikekhan100/saas-crm-api)**: A production-ready multi-tenant SaaS API built with FastAPI, demonstrating enterprise-grade tenant isolation patterns, secure database design, and RESTful best practices.Blood 
 
 ---
 
