@@ -16,7 +16,8 @@ I'm a backend developer focusing on high-performance APIs.
 *   **[Distributed Task Queue](https://github.com/mikekhan100/distributed-task-queue)**: A fault-tolerant, distributed task orchestration engine built with Python, FastAPI, and Redis.
 *   **[Resilient Notifier](https://github.com/mikekhan100/resilient-notifier)**: A high-resilience notification system built with Python and FastAPI. This project demonstrates the Circuit Breaker design pattern, a strategy used in microservices to prevent cascading failures.
 *   **[Guardian API](https://github.com/mikekhan100/guardian-api)**: A resilient FastAPI backend demonstrating Fixed-Window Rate Limiting to protect system resources and manage traffic flow.
-*   **[SaaS CRM API](https://github.com/mikekhan100/saas-crm-api)**: A production-ready multi-tenant SaaS API built with FastAPI, demonstrating enterprise-grade tenant isolation patterns, secure database design, and RESTful best practices.Blood 
+*   **[SaaS CRM API](https://github.com/mikekhan100/saas-crm-api)**: A production-ready multi-tenant SaaS API built with FastAPI, demonstrating enterprise-grade tenant isolation patterns, secure database design, and RESTful best practices.
+*   **[Task Management API](https://github.com/mikekhan100/task-management-api)**: A professional TypeScript backend API demonstrating full-stack development skills with PostgreSQL, real-time WebSocket communication, role-based authorisation, and RESTful API design.
 
 ---
 
@@ -26,3 +27,9 @@ I'm a backend developer focusing on high-performance APIs.
 *   **[Recipe API](https://github.com/mikekhan100/recipe-api)**: RESTful API for managing recipes - Built with Flask and SQLite.
 *   **[Quote Scraper](https://github.com/mikekhan100/quote-scraper)**: Python web scraper for collecting and analysing quotes.
 *   **[CLI Task Manager](https://github.com/mikekhan100/cli-task-manager)**: A command-line task management application built with Python.
+*   **[API Caller Project](https://github.com/mikekhan100/api-caller-project)**: A lightweight Bun and TypeScript script for fetching and logging data from a REST API.
+*   **[Static Text Project](https://github.com/mikekhan100/static-text-project)**: A minimal TypeScript web server built with Bun that serves a static frontend and handles async API requests.
+*   **[Basic Bun Project](https://github.com/mikekhan100/basic-bun-project)**: A minimal boilerplate demonstrating how to set up a continuous integration (CI) workflow for Bun and TypeScript using GitHub Actions.
+*   **[Whack-a-Mole](https://github.com/mikekhan100/whack-a-mole)**: A personalized, time-attack Whack-a-Mole browser game built with pure JavaScript and DOM manipulation.
+*   **[Dinner Planner](https://github.com/mikekhan100/dinner-planner)**: A dynamic recipe explorer app built with vanilla JavaScript that fetches categorized meal data and asynchronously renders responsive image cards.
+*   **[Flappy Bird](https://github.com/mikekhan100/flappy-bird)**: A physics-based Flappy Bird clone built with vanilla JavaScript and HTML5 Canvas, featuring a seamless parallax background, dynamic collision detection, and score-tiered results.
